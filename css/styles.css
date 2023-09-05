@@ -1,0 +1,31 @@
+/***************************** TAG SELECTORS *********************************/
+
+  Body {
+        background-color: #EAF6F6;
+        margin: 2% 2% 5% 2%;
+        }
+
+  h1 {
+      color: #66BFBF;
+      }
+
+  h3 {
+      color: #383838;
+      }
+
+  hr {
+      border-style: none;
+      border-top-style: dotted;
+      border-color: grey;
+      border-width: 5px;
+      width: 10%;
+      }
+
+  img:hover {
+      background-color: red;
+      }
+
+/**************************** CLASS SELECTORS ********************************/
+.senpai-1 {
+  border-radius: 100%
+}
